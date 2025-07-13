@@ -1,0 +1,6 @@
+streamlit 
+requests 
+beautifulscoup4 
+pandas
+gemini ai
+serp Api for googlesearch 
