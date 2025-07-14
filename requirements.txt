@@ -1,9 +1,5 @@
-streamlit 
-requests 
-beautifulscoup4 
+streamlit
 pandas
-gemini ai
 python-dotenv
 google-generativeai
 serpapi
-GoogleSearch
