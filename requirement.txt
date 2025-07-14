@@ -6,3 +6,4 @@ gemini ai
 python-dotenv
 google-generativeai
 serpapi
+GoogleSearch
