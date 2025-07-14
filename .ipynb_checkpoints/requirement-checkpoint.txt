@@ -1,0 +1,8 @@
+streamlit 
+requests 
+beautifulscoup4 
+pandas
+gemini ai
+python-dotenv
+google-generativeai
+serpapi
