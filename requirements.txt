@@ -2,6 +2,6 @@ streamlit
 pandas
 python-dotenv
 google-generativeai
-serpapi
+google-search-results
 google-search-results
 GoogleSearch
