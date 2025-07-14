@@ -7,8 +7,3 @@ python-dotenv
 google-generativeai
 serpapi
 GoogleSearch
-<<<<<<< HEAD:requirement.txt
-scraper
-=======
-scraper
->>>>>>> eed140f (add file requirements.txt):requirements.txt
